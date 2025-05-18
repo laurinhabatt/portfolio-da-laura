@@ -1,0 +1,7 @@
+cd "portfolio da Laura"
+git init
+git add .
+git commit -m "Initial commit - portfólio"
+git branch -M main
+git remote add origin https://github.com/laurinhabatt/portfolio-da-laura.git
+git push -u origin main
